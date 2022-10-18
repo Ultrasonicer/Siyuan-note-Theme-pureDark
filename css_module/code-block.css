@@ -1,0 +1,31 @@
+.b3-typography .hljs,
+.protyle-wysiwyg .hljs {
+	color: #c9d1d9;
+	background: #0d11173a;
+	/* border-radius: 2em; */
+}
+
+.b3-typography .code-block .protyle-action,
+.protyle-wysiwyg [data-node-id].code-block .protyle-action {
+	left: auto;
+	right: 4px;
+}
+
+.b3-typography .code-block .protyle-action > span.fn__flex-1,
+.protyle-wysiwyg [data-node-id].code-block .protyle-action > span.fn__flex-1 {
+	flex: 0;
+}
+
+/* 语言标签 */
+.b3-typography .code-block .protyle-action .protyle-action__language,
+.protyle-wysiwyg .code-block .protyle-action .protyle-action__language {
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+	font-size: 100%;
+}
+
+.b3-typography .code-block .protyle-icons,
+.protyle-wysiwyg [data-node-id].code-block .protyle-icons {
+	top: 0;
+	right: 0;
+}

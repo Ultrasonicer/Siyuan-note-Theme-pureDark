@@ -1,0 +1,23 @@
+/* 菜单项样式 */
+/* 调节设置界面 */
+.b3-list-item--big {
+	/* 降低高度 */
+	height: 1.5rem;
+}
+
+.b3-list-item--big:hover {
+	/* 突出边框 */
+	border: 1px solid var(--b3-theme-primary);
+	border-radius: 0.5em;
+	transition: hover 0.5s;
+}
+/* 调节设置界面结束 */
+
+.b3-list--background .b3-list-item {
+	border: 1px;
+}
+
+.b3-list--background .b3-list-item:hover {
+	border: 0.5px solid var(--b3-theme-primary);
+	border-radius: 0.5em;
+}

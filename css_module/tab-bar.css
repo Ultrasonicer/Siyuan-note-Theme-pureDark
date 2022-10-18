@@ -1,0 +1,14 @@
+/* 页签样式 */
+.layout-tab-bar .item--focus {
+	border-radius: 0em;
+	border: 1px solid #0088cc;
+}
+
+/* .layout__wnd--active .layout-tab-bar .item--focus,
+.layout-tab-bar .item:not(:last-child) {
+	box-shadow: inset 0 0 0 0 !important;
+} */
+.layout-tab-bar {
+	height: 25px;
+	/* border-radius: 1em; */
+}

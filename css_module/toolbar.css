@@ -1,0 +1,15 @@
+/* 工具栏样式 */
+
+/* 限制工具栏高度 */
+.toolbar {
+	height: 25px;
+	background-color: #1e1e1e;
+	opacity: 0;
+	transition: opacity 0.5s ease 1s;
+}
+
+/* 工具栏悬浮显示 */
+.toolbar:hover {
+	opacity: 1;
+	transition: opacity 0.5s;
+}
