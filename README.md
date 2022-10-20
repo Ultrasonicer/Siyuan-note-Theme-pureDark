@@ -11,7 +11,7 @@ A dark theme of [SiYuan Note](https://github.com/siyuan-note/siyuan).
 
 ### 手动安装
 
-在 [Releases](https://github.com/weihan-Chen/CityInDark/releases) 中下载发行包, 解压后放到思源笔记 `<工作空间>/conf/appearance/themes/` 目录下
+在 [Releases](https://github.com/weihan-Chen/pureDark/releases) 中下载发行包, 解压后放到思源笔记 `<工作空间>/conf/appearance/themes/` 目录下
 
 ## START
 
@@ -21,8 +21,8 @@ The theme has been put on the shelves at [SiYuan community bazaar](https://githu
 
 ### MANUAL INSTALL
 
-Download the release package in [Releases](https://github.com/weihan-Chen/CityInDark/releases), unzip it and place it in the `<workspace>/conf/appearance/themes/` directory of SiYuan Note.
+Download the release package in [Releases](https://github.com/weihan-Chen/pureDark/releases), unzip it and place it in the `<workspace>/conf/appearance/themes/` directory of SiYuan Note.
 
 ## change log
 
-[版本日志](https://github.com/weihan-Chen/CityInDark/blob/main/CHANGELOG.md)
+[版本日志](https://github.com/weihan-Chen/pureDark/blob/main/CHANGELOG.md)
