@@ -21,8 +21,8 @@ The theme has been put on the shelves at [SiYuan community bazaar](https://githu
 
 ### MANUAL INSTALL
 
-Download the release package in [Releases](https://github.com/weihan-Chen/pureDark/releases), unzip it and place it in the `<workspace>/conf/appearance/themes/` directory of SiYuan Note.
+Download the release package in [Releases](https://github.com/weihan-Chen/CityInDark/releases), unzip it and place it in the `<workspace>/conf/appearance/themes/` directory of SiYuan Note.
 
 ## change log
 
-[版本日志](https://github.com/weihan-Chen/pureDark/blob/main/CHANGELOG.md)
+[版本日志](https://github.com/weihan-Chen/CityInDark/blob/main/CHANGELOG.md)

@@ -1,0 +1,5 @@
+.b3-typography > p,
+.protyle-wysiwyg > .p {
+	line-height: 1.25;
+	margin: 0;
+}

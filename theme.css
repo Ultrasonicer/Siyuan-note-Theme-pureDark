@@ -2,6 +2,7 @@
 
 /* 导入全局方案 */
 @import url(css_module/base.css);
+@import url(css_module/p.css);
 /* 块级元素 */
 @import url(css_module/table.css);
 @import url(css_module/NodeBlockQueryEmbed.css);
@@ -30,7 +31,6 @@
 /* 数学公式 */
 
 /* 面板 */
-@import url(css_module/layout__resize--lr.css);
 @import url(css_module/backlinks.css);
 /* @import url(css_module/search_box.css); */
 /* 行内元素 */

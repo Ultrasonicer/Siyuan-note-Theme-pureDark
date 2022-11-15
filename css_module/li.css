@@ -1,10 +1,12 @@
 /* 列表样式 */
-.protyle-wysiwyg [data-node-id].li > [data-node-id]:before {
-	border-left: 1px solid #4f565e;
-	width: 0.95px;
-}
 /* 减少行间距 */
-.protyle-wysiwyg.protyle-wysiwyg [data-node-id]:not([data-type='NodeCodeBlock']) {
+.protyle-wysiwyg.protyle-wysiwyg [data-node-id] {
 	margin-bottom: 0px;
 	margin-top: 0px;
+}
+.protyle-wysiwyg [data-node-id].li:before {
+	border-left: 0.5px solid var(--b3-theme-primary);
+}
+.protyle-wysiwyg [data-node-id].li:hover:before {
+	border-left: 0.5px solid var(--b3-theme-primary);
 }
